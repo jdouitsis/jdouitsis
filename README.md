@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 
-I'm finishing up my engineering degree at Ryerson University, but half way through studying eng I fell in love with software so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry! 
+I'm finishing up my engineering degree at Ryerson University, but half way through studying eng I fell in love with software so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry! Oh, I almost forogt to mention that I got my [AWS Solutions Architect Associate](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=FNGF53GCK1BE1TKG) Certificate! 
 
 ## ✨ My Interests Outside of Software
 
@@ -11,14 +11,13 @@ I'm finishing up my engineering degree at Ryerson University, but half way throu
 - ⛺️ camping on the weekends
 - 📖 Reading a good book in the evening
 
-Feel free to get in touch with me on [LinkedIn](https://www.linkedin.com/in/jamesdouitsis/) or by email ([jamesdouitsis@gmail.com](mailto:jamesdouitsis@gmail.com)). Also, feel free to checkout my resume if you haven't already 😊 
+Feel free to get in touch with me on [LinkedIn](https://www.linkedin.com/in/jamesdouitsis/) or by email ([jamesdouitsis@gmail.com](mailto:jamesdouitsis@gmail.com)). Also, feel free to checkout my [resume](https://github.com/jdouitsis/jdouitsis/blob/main/James%20Douitsis%20Resume.pdf) if you haven't already 😊 
 
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
