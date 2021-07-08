@@ -1,17 +1,31 @@
-### Welcome to my Github! 
+<h2> Welcome! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-## About me
+## 👨‍💻 About me
 
-I'm finishing up my engineering degree at Ryerson University. While studying engineering I fell in love with Software so I learn't all about Web Dev and even done work with mobile apps both professionally and for projects. Now I am now happily pursuing my career in Software.
+I'm finishing up my engineering degree at Ryerson University, but half way through studying eng I fell in love with software so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry! 
 
-## My Interests Outside of Software
+## ✨ My Interests Outside of Software
 
-- Playing beach volleyball or ultimate frisbee with friends
-- Hammocking (camping with hammocks) on the weekends
-- Reading a good book in the evening
+- 🏐 Playing beach volleyball or ultimate frisbee with friends
+- ⛺️ camping on the weekends
+- 📖 Reading a good book in the evening
 
-Feel free to get in touch with me on my [LinkedIn](https://www.linkedin.com/in/jamesdouitsis/) or by [email](mailto:jamesdouitsis@gmail.com)
+Feel free to get in touch with me on [LinkedIn](https://www.linkedin.com/in/jamesdouitsis/) or by email ([jamesdouitsis@gmail.com](mailto:jamesdouitsis@gmail.com)). Also, feel free to checkout my resume if you haven't already 😊 
 
+### 🛠️ Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <!--
 **jdouitsis/jdouitsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
