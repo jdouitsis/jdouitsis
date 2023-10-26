@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 
-About half way through Electrical Engineering degree (Old news, I've finished that degree!) I fell in love with software, so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry (Still persuing it and it's loads of fun!)!
+About half way through Electrical Engineering degree (Old news, I've finished that degree and actually completely left that field for software ❤️) I fell in love with software, so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry (Still persuing it and it's loads of fun!)!
 
 ## Visit my slowly growing GitHub library! 
 
