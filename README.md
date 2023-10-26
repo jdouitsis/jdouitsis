@@ -5,7 +5,7 @@
 
 About half way through Electrical Engineering degree (Old news, I've finished that degree and actually completely left that field for software ❤️) I fell in love with software, so I started learning it as fast as I could. Once I got going, I did many projects and as well as internships in software and I am now happily pursuing my career in the software industry (Still persuing it and it's loads of fun!)!
 
-## Visit my slowly growing GitHub library! 
+## 🧠 Visit my slowly growing GitHub library! 
 
 I've started aggrigating resources that I've found useful over the years and have been putting them in my [GitHub Wiki](https://github.com/jdouitsis/jdouitsis/wiki). So feel free to take a look at all the [books](https://github.com/jdouitsis/jdouitsis/wiki/Books) and [articles](https://github.com/jdouitsis/jdouitsis/wiki/Articles) that I've found valuable over the years.
 
